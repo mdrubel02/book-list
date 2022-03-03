@@ -1,0 +1,19 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+.input-area{
+    padding: 1rem 0;
+}
+.title{
+    display: block;
+    width: 30rem;
+    padding: 0.5rem 0;
+    border: 0;
+    border-bottom: 1px solid rgb(165, 182, 6);
+    outline: none;
+}
+.title::placeholder{
+    color: rgb(165, 182, 6);
+}
